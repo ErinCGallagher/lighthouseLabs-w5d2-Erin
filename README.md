@@ -14,7 +14,9 @@ To get started with this project:
 
 1) clone the repo
 
-2) run a `pod install` within your project directory to set up parse
+2) run a `pod setup` within your project directory to set up parse
+
+3) run a `pod install` within your project directory to set up parse
 
 
 
